@@ -1,0 +1,9 @@
+{
+  "name": "free-ytvideo-download",
+  "version": "1.0.0",
+  "description": "Free YouTube Video Downloader - Telegram Mini App",
+  "dependencies": {
+    "ytdl-core": "^4.11.5",
+    "@netlify/functions": "^2.8.0"
+  }
+}
